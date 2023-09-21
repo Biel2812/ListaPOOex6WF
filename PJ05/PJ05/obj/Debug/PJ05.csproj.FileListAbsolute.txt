@@ -1,0 +1,11 @@
+C:\Users\aluno\source\repos\PJ05\PJ05\bin\Debug\PJ05.exe.config
+C:\Users\aluno\source\repos\PJ05\PJ05\bin\Debug\PJ05.exe
+C:\Users\aluno\source\repos\PJ05\PJ05\bin\Debug\PJ05.pdb
+C:\Users\aluno\source\repos\PJ05\PJ05\obj\Debug\PJ05.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\PJ05\PJ05\obj\Debug\PJ05.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\PJ05\PJ05\obj\Debug\PJ05.frmQuilometragem.resources
+C:\Users\aluno\source\repos\PJ05\PJ05\obj\Debug\PJ05.Properties.Resources.resources
+C:\Users\aluno\source\repos\PJ05\PJ05\obj\Debug\PJ05.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\PJ05\PJ05\obj\Debug\PJ05.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\PJ05\PJ05\obj\Debug\PJ05.exe
+C:\Users\aluno\source\repos\PJ05\PJ05\obj\Debug\PJ05.pdb
